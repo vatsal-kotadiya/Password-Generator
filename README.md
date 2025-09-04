@@ -1,2 +1,2 @@
 # Password-Generator
-Here it is the forst program for Codsoft internship.
+Here it is the first program for Codsoft internship.
